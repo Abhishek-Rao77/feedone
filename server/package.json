@@ -1,0 +1,1 @@
+{"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.19.2","pg":"^8.12.0"},"description":"FeedOne surplus food coordination platform API","main":"index.js","name":"feedone-server","scripts":{"dev":"node --watch index.js","start":"node index.js"},"version":"1.0.0"}
